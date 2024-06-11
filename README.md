@@ -9,19 +9,20 @@
 - **ShaderLab**: Used for writing custom shaders.
 
 ### Game Development
-- **Unity**: Experienced in Unity including:
+- **Unity**: 
   - **Gameplay Scripting**: Implementing game logic, mechanics, and interactions.
-  - **Animation**: Creating and managing animations using Unity's Animator system.
-  - **UI Design**: Designing and implementing user interfaces within Unity.
+  - **Animation**: Creating animations using Unity's Animator system and custom hand-drawn 2D sprites.
+  - **UI Design**: Implementing user interfaces within Unity.
   - **Physics**: Applying and customizing physics in game objects.
-  - **Optimization**: Ensuring smooth performance and efficient resource usage.
+  - **Optimization**: Optimization is always number one!
 
 ### Additional Skills
 - **Senior Artist**: I'm a senior 2D artist with eight years of experience in the industry.
+- **Extremely Fast Learning**: Strong ability to learn anything in a short time.
 - **Game Design**: Understanding of game design principles and player experience.
 - **Problem Solving**: Strong ability to debug and solve complex issues in game development.
-- **Extremely Fast Learner**: Strong ability to learn anything in a short time.
 - **Collaboration**: Experience working in team environments and communicating effectively with other developers.
+- **Multilinguist**: I speak 3 languages fluently (Spanish, English, Serbian) and I can understand 4 (Russian, Polish, Italian, Bulgarian)
 
 ## Projects
 
