@@ -46,5 +46,5 @@ A 3-tile match game where I implemented the core game logic and created animatio
 - 🔭 I’m currently working on a Personal Project.
 - 👯 I’m looking to collaborate on 2D Top Down and Casual Games. 
 - ⚡ Fun fact: I'm an artist who decided not to depend on developers and learned how to code. 😎 
-- 📫 How to reach me: Check out here 👉 [link](http://milemicic.com) 
+- 📫 How to reach me: Check out here 👉 [link](http://milemicic.com)  or go to itch 👉 [link]([https://nk0o0.itch.io])
 
