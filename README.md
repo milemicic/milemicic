@@ -41,6 +41,8 @@ A 3-tile match game where I implemented the core game logic and created animatio
 - **UI Animation**: Designed and implemented animations for tile movements, matches, and other UI elements.
 - **Technologies Used**: Unity, C#, Animator
 
+## Additional info
+
 - 🔭 I’m currently working on a Personal Project.
 - 👯 I’m looking to collaborate on 2D Top Down and Casual Games. 
 - ⚡ Fun fact: I'm an artist who decided not to depend on developers and learned how to code. 😎 
