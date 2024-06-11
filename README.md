@@ -5,11 +5,11 @@
 ## Skills
 
 ### Programming Languages
-- **C#**: Primary language for scripting and developing game mechanics in Unity.
-- **ShaderLab**: Used for writing custom shaders to control rendering and visual effects.
+- **C#**: My primary language for scripting and developing game mechanics in Unity.
+- **ShaderLab**: Used for writing custom shaders.
 
 ### Game Development
-- **Unity**: Experienced with Unity for developing 2D, including:
+- **Unity**: Experienced in Unity including:
   - **Gameplay Scripting**: Implementing game logic, mechanics, and interactions.
   - **Animation**: Creating and managing animations using Unity's Animator system.
   - **UI Design**: Designing and implementing user interfaces within Unity.
