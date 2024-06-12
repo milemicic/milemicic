@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mile!  
 #### A creative artist with an engineer's mind.
-![A creative artist with an engineer's mind.](https://media.licdn.com/dms/image/C4D16AQE8SDVmEAagww/profile-displaybackgroundimage-shrink_350_1400/0/1602060690909?e=1723680000&v=beta&t=1-sa1FVIgrnRo-jx3V4w4JKiZRUlqQphE1x_rHsolVU)
+![A creative artist with an engineer's mind.]([https://media.licdn.com/dms/image/C4D16AQE8SDVmEAagww/profile-displaybackgroundimage-shrink_350_1400/0/1602060690909?e=1723680000&v=beta&t=1-sa1FVIgrnRo-jx3V4w4JKiZRUlqQphE1x_rHsolVU](https://img.itch.zone/aW1nLzE2NTE4ODU4LmpwZw==/original/rKL5H9.jpg))
 
 ## Skills
 
