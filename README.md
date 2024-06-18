@@ -13,7 +13,7 @@
   - **Gameplay Scripting**: Implementing game logic, mechanics, and interactions.
   - **Animation**: Creating animations using Unity's Animator system and custom hand-drawn 2D sprites.
   - **UI Design**: Implementing user interfaces within Unity.
-  - **Physics**: Applying and customizing physics in game objects.
+  - **Physics**: Applying and customizing physics.
   - **Optimization**: Optimization is always number one!
 
 ### Additional Skills
