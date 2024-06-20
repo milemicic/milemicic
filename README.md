@@ -3,12 +3,6 @@
 ![A creative artist with an engineer's mind.](https://img.itch.zone/aW1nLzE2NTE4ODU4LmpwZw==/original/rKL5H9.jpg)
 
 ## Skills
-
-### Programming Languages
-- **C#**: My primary language for scripting and developing game mechanics in Unity.
-- **ShaderLab**: Used for writing custom shaders.
-
-### Game Development
 - **Unity**: 
   - **Gameplay Scripting**: Implementing game logic, mechanics, and interactions.
   - **Animation**: Creating animations using Unity's Animator system and custom hand-drawn 2D sprites.
@@ -19,9 +13,6 @@
 ### Additional Skills
 - **Senior Artist**: I'm a senior 2D artist with eight years of experience in the industry.
 - **Extremely Fast Learning**: Strong ability to learn anything in a short time.
-- **Game Design**: Understanding of game design principles and player experience.
-- **Problem Solving**: Strong ability to debug and solve complex issues in game development.
-- **Collaboration**: Experience working in team environments and communicating effectively with other developers.
 - **Multilinguist**: I speak 3 languages fluently (Spanish, English, Serbian) and I can understand 4 (Russian, Polish, Italian, Bulgarian)
 
 ## Projects
@@ -40,7 +31,6 @@ A 3-tile match game where I implemented the core game logic and created animatio
 
 - **Basic Game Logic**: Developed the core mechanics for tile matching.
 - **UI Animation**: Designed and implemented animations for tile movements, matches, and other UI elements.
-- **Technologies Used**: Unity, C#, Animator
 
 ## About
 
